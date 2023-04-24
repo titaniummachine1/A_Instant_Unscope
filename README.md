@@ -2,3 +2,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # instant unscope using cyoa_pca_open
+
+[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/A_Instant_Unscope/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/A_Instant_Unscope/releases/latest/download/A_Instant_Unscope)
