@@ -20,7 +20,7 @@ local function OnCreateMove(userCmd)
         --pLocalOrigin = UpdateLocals()
     if wtunzoom then
       client.Command("cyoa_pda_open " .. ('1'), true)
-      client.ChatPrintf("works")
+      --client.ChatPrintf("works")
     elseif not pLocal:InCond(1) then
       if userCmd.command_number % 8 == 0 then -- executes code every 8 ticks. (Potentially inconsistent, but it works).
       client.Command("cyoa_pda_open " .. ('0'), true)
