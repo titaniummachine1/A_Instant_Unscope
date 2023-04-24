@@ -5,4 +5,4 @@
 
 also holding right mouse button and releasing it when you want to use this command for single tick allwos for demoknight insta stop of charge shield
 
-[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/A_Instant_Unscope/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/A_Instant_Unscope/releases/latest/download/A_Instant_Unscope)
+[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/A_Instant_Unscope/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/A_Instant_Unscope/releases/latest/download/A_Instant_Unscope.lua)
